@@ -1,6 +1,6 @@
 # Expense Tracker
 
-Host at https://nethminidevyanjalee.github.io/expense-tracker-react/
+Published at https://nethminidevyanjalee.github.io/expense-tracker-react/
 
 # Getting Started with Create React App
 
